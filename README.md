@@ -1,7 +1,5 @@
 # Atividades - Engenharia de Software III - Fatec
 ## INTRODUÇÃO A GESTÃO DE CÓDIGO FONTE
-
-
 ---
 ### Primeiros Passos:
 - Clone esse repositório
@@ -10,3 +8,4 @@
 - Convide um colaborador
 
   > "Foco"
+  > "Não tenho"
