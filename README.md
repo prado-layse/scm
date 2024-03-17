@@ -2,7 +2,7 @@
 ## INTRODUÇÃO A GESTÃO DE CÓDIGO FONTE
 ---
 ### Primeiros Passos:
-- Clone esse repositório
+- 1. Crie um conta no github https://github.com/ >Concluído
 - Faça um commit local
 - Realize um push
 - Convide um colaborador
